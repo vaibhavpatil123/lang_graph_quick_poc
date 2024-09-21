@@ -1,0 +1,4 @@
+langgraph
+langsmith
+langchain_anthropic
+openai==0.28
